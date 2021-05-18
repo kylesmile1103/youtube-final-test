@@ -1,7 +1,5 @@
 # youtube-final-test
 
-##Task (in Vietnamese):
-
 Câu 1: (6 điểm)Xây dựng các classes và/hoặc interfaces: Youtuber, Viewer, Video và các interface hỗ trợ khác để triển khai ngữ cảnh bài toán sau:
 a. Youtuber có thể quản lý danh sách video và viewer của mình. Bao gồm các thao tác: thêm mới, tìm kiểm, cập nhật, xóa, xuất danh sách.
 b. Viewer có thể quản lý danh sách các youtuber của mình. Bao gồm các thao tác: thêm mới,tìm kiểm, cập nhật, xóa, xuất danh sách. Viết hàm main thể hiện kịch bản ứng với các chức năng đã xây dưng.
